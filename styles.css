@@ -52,7 +52,18 @@ a:hover {
 
 h1 {
   animation: slideIn 1s ease forwards;
+  display: flex;
+  justify-content: center;
+  text-align: center;
 }
+
+p.paragraphs {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+
 
 
 div.one {
