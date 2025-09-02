@@ -61,7 +61,9 @@ div.one {
   border-radius: 8px;
   margin-bottom: 20px;
   animation-delay: -2s;
-  
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
   animation: slideIn 1s ease forwards;
   
 }
@@ -74,10 +76,13 @@ div.two {
   border-radius: 8px;
   margin-bottom: 20px;
   animation-delay: -2s;
-  
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
   animation: slideIn 1s ease forwards;
   
 }
+
 
 div.three {
   background-color: rgba(0, 0, 0, 0.6);
@@ -85,7 +90,99 @@ div.three {
   border-radius: 8px;
   margin-bottom: 20px;
   animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+  animation: slideIn 1s ease forwards;
   
+}
+
+div.four {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+  animation: slideIn 1s ease forwards;
+  
+}
+
+div.five {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+  animation: slideIn 1s ease forwards;
+  
+}
+div.six {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+  animation: slideIn 1s ease forwards;
+  
+}
+
+div.seven {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+  animation: slideIn 1s ease forwards;
+  
+}
+
+div.eight {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+  animation: slideIn 1s ease forwards;
+  
+}
+
+div.nine {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+  animation: slideIn 1s ease forwards;
+  
+}
+
+div.ten {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  background-image: url("d.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
   animation: slideIn 1s ease forwards;
   
 }
