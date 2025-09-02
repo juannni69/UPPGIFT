@@ -12,3 +12,9 @@ body {
     line-height: 1.6;
     padding: 20px;
 }
+
+li {
+  background-color: greenyellow;
+  border: 1px solid black;
+  margin-bottom: 5px;
+}
