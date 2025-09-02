@@ -25,7 +25,7 @@ body {
     background-image: url("bild1.jpg"); /* byt till ditt filnamn */
     background-size: cover;            /* täcker hela skärmen */
     background-position: center;       /* centrerar bilden */
-    background-repeat: repeat;      /* upprepar inte */
+    background-repeat: repeat;      /* upprepar */
     animation: slideIn 1s ease forwards; /* line 36-45 slide in animation: */
 }
     
@@ -54,7 +54,7 @@ h1 {
   animation: slideIn 1s ease forwards;
   display: flex;
   justify-content: center;
-  text-align: center;
+  text-align: center;   
 }
 
 p.paragraphs {
@@ -63,7 +63,13 @@ p.paragraphs {
   text-align: center;
 }
 
-
+h2.headings {
+  animation: slideIn 1s ease forwards;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 10px;
+}
 
 
 div.one {
