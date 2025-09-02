@@ -53,3 +53,39 @@ a:hover {
 h1 {
   animation: slideIn 1s ease forwards;
 }
+
+
+div.one {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  
+  animation: slideIn 1s ease forwards;
+  
+}
+
+
+
+div.two {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  
+  animation: slideIn 1s ease forwards;
+  
+}
+
+div.three {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  animation-delay: -2s;
+  
+  animation: slideIn 1s ease forwards;
+  
+}
