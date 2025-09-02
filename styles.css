@@ -11,11 +11,11 @@ body {
     color: #333;
     line-height: 1.6;
     padding: 20px;
-}
 
-body {
-  background-image: url("bild1.jpg"); /* byt till ditt filnamn */
-  background-size: cover;            /* täcker hela skärmen */
-  background-position: center;       /* centrerar bilden */
-  background-repeat: no-repeat;      /* upprepar inte */
+
+
+    background-image: url("bild1.jpg"); /* byt till ditt filnamn */
+    background-size: cover;            /* täcker hela skärmen */
+    background-position: center;       /* centrerar bilden */
+    background-repeat: no-repeat;      /* upprepar inte */
 }
