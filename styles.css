@@ -13,9 +13,9 @@ body {
     padding: 20px;
 }
 
-
 body {
-  background-image: url("bild1.jpg");
-  background-size: cover;   /* Fyller hela sidan */
-  background-position: center;
+  background-image: url("bild1.jpg"); /* byt till ditt filnamn */
+  background-size: cover;            /* täcker hela skärmen */
+  background-position: center;       /* centrerar bilden */
+  background-repeat: no-repeat;      /* upprepar inte */
 }
